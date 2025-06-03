@@ -247,8 +247,6 @@ con la mejor tela que encontraras en el mercado</p></td>
 <td><p>conjunto de playera y short para verano</p></td>
    <td><p>saco elegante para cualquier ocasion </p></td>
    <td><p>conjunto de dos piezas en cualquier color </p></td>
-</tr>
-  <tr>
 <th>mameluco con lq mejor calidad</th>
 <th>playera y short</th>
 <th>pañalero de niño y niña</th>
